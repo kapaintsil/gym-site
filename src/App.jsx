@@ -1,7 +1,7 @@
 import './App.css';
 import Footer from './Components/Footer/Footer.jsx';
 import Hero from './Components/Hero/Hero.jsx';
-import Join from './Components/Join/join.jsx';
+import Join from './Components/Join/Join.jsx';
 import Plans from './Components/Plans/Plans.jsx';
 import Programs from './Components/Programs/Programs.jsx';
 import Reasons from './Components/Reasons/Reasons.jsx';
